@@ -1,0 +1,6 @@
+{
+  "name": "Mohalla Mind",
+  "description": "AI Community Intelligence Engine for Pakistani Neighborhoods",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
